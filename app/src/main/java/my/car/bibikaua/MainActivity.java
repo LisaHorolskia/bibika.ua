@@ -7,9 +7,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.content.Intent;
 import androidx.appcompat.app.AppCompatActivity;
-
 import java.net.URISyntaxException;
-
 import my.car.bibikaua.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
